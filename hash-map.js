@@ -1,7 +1,5 @@
 // hash map implementation using es6 class
 
-/* jshint esversion: 6 */
-
 class Hashmap {
   constructor() {
     this.storage = [];
